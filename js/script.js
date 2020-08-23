@@ -1,4 +1,4 @@
 "use strict";
  
-console.log(2 + 2 * 2 !== "6");
+const numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
 
